@@ -67,7 +67,7 @@ POST /api/employees
 GET /api/employees
 ```
 
--Get Employee by ID
+- Get Employee by ID
 ```sh
 GET /api/employees/{id}
 ```
@@ -93,7 +93,7 @@ PUT /api/employees/{id}
 }
 ```
 
--Delete Employee
+- Delete Employee
 ```sh
 DELETE /api/employees/{id}
 ```
